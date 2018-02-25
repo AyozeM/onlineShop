@@ -771,6 +771,10 @@ $yarn run clear
 ## Author
 -  __[Luigi055](https://github.com/luigi055)__
 
+## Modified by
+- __[adonisw0rick](https://github.com/adonisw0rick)__
+Modified with react-bootstrap, popper.js, css-loader by modules.
+
 See also the list of [contributors](https://github.com/luigi055/TDAH-REST-API/contributors) who participated in this project.
 
 ## License
